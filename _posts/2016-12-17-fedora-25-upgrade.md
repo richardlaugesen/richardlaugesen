@@ -10,7 +10,7 @@ tags:
 
 Upgrading to Fedora 25 was as easy as clicking a button in Fedora 24 then waiting.
 
-But after the reboot it didn't come back up as expected. Instead it displayed the image above. This is known as the Gnome Fail Whale.
+But after the reboot it didn't come back up as expected. Instead it displayed the image above. I believe this is known as the Gnome Fail Whale.
 
 And this is what fixed it for me:
 
