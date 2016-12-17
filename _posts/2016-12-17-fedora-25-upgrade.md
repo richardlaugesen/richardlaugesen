@@ -14,8 +14,11 @@ But after the reboot it didn't come back up as expected. Instead it displayed th
 
 And this is what fixed it for me:
 
+0. See the Gnome Fail Whale
 1. Press Ctrl-Alt-F2 to drop into single user mode
-2. Sign in my normal user
+2. Sign in as my normal user
 3. Edit this file /usr/share/gnome-session/sessions/gnome.session as sudo
 4. Remove gnome-settings-daemon; from the last line
 5. Reboot
+
+Not yet sure what the consequences of this are besides frustration.
