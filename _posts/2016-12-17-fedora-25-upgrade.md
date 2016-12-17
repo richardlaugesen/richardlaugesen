@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Upgrading to Fedora 25
+tags:
+ - Technology
+ - Frustration
+---
+
+![Gnome fail whale](/images/gnome-fail-whale.png "Gnome fail whale")
+
+Upgrading to Fedora 25 was as easy as clicking a button in Fedora 24 then waiting.
+
+But after the reboot it didn't come back up as expected. Instead it displayed the image above. This is known as the Gnome Fail Whale.
+
+And this is what fixed it for me:
+
+1. Press Ctrl-Alt-F2 to drop into single user mode
+2. Sign in my normal user
+3. Edit this file /usr/share/gnome-session/sessions/gnome.session as sudo
+4. Remove gnome-settings-daemon; from the last line
+5. Reboot
