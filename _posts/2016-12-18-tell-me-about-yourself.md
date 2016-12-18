@@ -6,7 +6,7 @@ tags:
  - Courage
 ---
 
-![Dilbert- job interview](/images/dilbert-job-interview.jpg "Dilbert - bob interview")
+![Dilbert- job interview (fair use license)](/images/dilbert-job-interview.jpg "Dilbert - job interview (fair use license)")
 
 Answering that opening question in an interview can be terrifying. 
 
