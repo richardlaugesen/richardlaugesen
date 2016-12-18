@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  Why to write
-image: /images/typewriter.jpg
-desription: Writing helps me think better
+description: Writing helps me think better
 excerpt: Writing helps me think better
+image:
+  thumb: typewriter.jpg
 tags:
  - Writing
  - Courage

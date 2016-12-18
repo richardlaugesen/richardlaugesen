@@ -3,7 +3,8 @@ layout: post
 title:  Tell me about yourself
 description: Simple approach to handle that terrifying interview question
 excerpt: Simple approach to handle that terrifying interview question
-image: /images/dilbert-job-interview.jpg
+image:
+  thumb: dilbert-job-interview.jpg
 tags:
  - Interview
  - Courage
