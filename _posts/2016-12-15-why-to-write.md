@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why to write
+title:  Why to write?
 description: Writing helps me think better
 excerpt: Writing helps me think better
 image:
