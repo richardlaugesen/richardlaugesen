@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  Upgrading to Fedora 25
+image: /images/gnome-fail-whale.png
+description: Solve the Gnome fail whale after upgrading to Fedora 25
+excerpt: Solve the Gnome fail whale after upgrading to Fedora 25
 tags:
  - Technology
  - Frustration

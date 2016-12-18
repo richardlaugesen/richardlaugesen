@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  Tell me about yourself
+description: Simple approach to handle that terrifying interview question
+excerpt: Simple approach to handle that terrifying interview question
+image: /images/dilbert-job-interview.jpg
 tags:
  - Interview
  - Courage
 ---
 
-![Dilbert- job interview (fair use license)](/images/dilbert-job-interview.jpg "Dilbert - job interview (fair use license)")
+![Dilbert - job interview (fair use license)](/images/dilbert-job-interview.jpg "Dilbert - job interview (fair use license)")
 
 Answering that opening question in an interview can be terrifying. 
 
