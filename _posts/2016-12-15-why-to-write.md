@@ -18,4 +18,4 @@ In a practical sense that set of published articles will be a convenient externa
 
 Now, how to write?
 
-<small>**Thanks** to Salihan Laugesen for reading drafts of this.</small>
+<small>**Thanks** to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.</small>
