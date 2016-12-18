@@ -21,6 +21,11 @@ Just tell them:
 - Stuff you did in the past that matches what they want in the future
 - And a story that demonstrates one of your good qualities
 
+Don't tell them:
+
+- Your life story
+- Anything about pets, travel, or hobbies
+
 Writing it down first and practicing till it sounds natural is probably a good idea too.
 
 <small>**Thanks** to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.</small>
