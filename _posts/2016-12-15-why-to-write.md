@@ -10,7 +10,8 @@ tags:
  - Courage
 ---
 
-![Not my typewriter, mine is an Adler Tippa 2. https://unsplash.com/photos/HbbHfXvb6Xw](/images/typewriter.jpg "Not my typewriter, mine is an Adler Tippa 2. https://unsplash.com/photos/HbbHfXvb6Xw")
+![](/images/typewriter.jpg)
+*Not my typewriter, mine is an Adler Tippa 2. [Photo](https://unsplash.com/photos/HbbHfXvb6Xw) by [Nirzar Pangarkar](http://twitter.com/nirzardp)*
 
 Perhaps you are like me, with ideas in various states of completeness rattling around your mind. Some are decades old.
 
@@ -22,4 +23,6 @@ In a practical sense that set of published articles will be a convenient externa
 
 Now, how to write?
 
-<small>**Thanks** to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.</small>
+---
+
+Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.

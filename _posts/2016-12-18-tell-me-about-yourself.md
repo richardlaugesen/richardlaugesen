@@ -10,7 +10,8 @@ tags:
  - Courage
 ---
 
-![Dilbert - job interview (fair use license)](/images/dilbert-job-interview.jpg "Dilbert - job interview (fair use license)")
+![](/images/dilbert-job-interview.jpg)
+*Illustration by [Scott Adams](http://dilbert.com)*
 
 Answering that opening question in an interview can be terrifying. 
 
@@ -28,5 +29,7 @@ Don't tell them:
 
 Writing it down first and practicing till it sounds natural is probably a good idea too.
 
-<small>**Thanks** to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.</small>
+---
+
+Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.
 
