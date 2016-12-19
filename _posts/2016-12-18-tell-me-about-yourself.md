@@ -6,7 +6,7 @@ excerpt: Simple approach to handle that terrifying interview question
 image:
   thumb: dilbert-job-interview.jpg
 tags:
- - Interview
+ - Employment
  - Courage
 ---
 
