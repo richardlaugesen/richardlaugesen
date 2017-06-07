@@ -33,6 +33,7 @@ Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this
 
 {% 
 include figure 
+class="half"
 image_path="/assets/images/dilbert-job-interview.jpg" 
 alt="Illustration by [Scott Adams](http://dilbert.com)"
 caption="Illustration by [Scott Adams](http://dilbert.com)"

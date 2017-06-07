@@ -31,6 +31,7 @@ This uses [symmetric encryption](https://en.wikipedia.org/wiki/Symmetric-key_alg
 
 {% 
 include figure 
+class="half"
 image_path="/assets/images/secure-archives.jpg"
 alt="Another type of secure compression — Image by [Armed in Heels](http://www.armedinheels.com/undertech-undercover-women39s-ultimate-compression-shorts-p-1705.html?CDpath=3)"
 caption="Another type of secure compression — Image by [Armed in Heels](http://www.armedinheels.com/undertech-undercover-women39s-ultimate-compression-shorts-p-1705.html?CDpath=3)"
