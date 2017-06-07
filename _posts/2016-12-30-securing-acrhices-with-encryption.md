@@ -13,8 +13,13 @@ tags:
  - Archive
 ---
 
-![](/images/secure-archives.jpg)
-*Another type of secure compression — Image by [Armed in Heels](https://medium.com/r/?url=http%3A%2F%2Fwww.armedinheels.com%2Fundertech-undercover-women39s-ultimate-compression-shorts-p-1705.html%3FCDpath%3D3)*
+{% 
+include figure 
+image_path="/assets/images/secure-archives.jpg"
+alt="Another type of secure compression — Image by [Armed in Heels](https://medium.com/r/?url=http%3A%2F%2Fwww.armedinheels.com%2Fundertech-undercover-women39s-ultimate-compression-shorts-p-1705.html%3FCDpath%3D3)"
+caption="Another type of secure compression — Image by [Armed in Heels](https://medium.com/r/?url=http%3A%2F%2Fwww.armedinheels.com%2Fundertech-undercover-women39s-ultimate-compression-shorts-p-1705.html%3FCDpath%3D3)"
+%}
+
 
 I want to archive a directory and then encrypt it. And obviously get that directory back again sometime in future.
 

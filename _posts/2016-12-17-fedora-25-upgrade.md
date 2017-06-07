@@ -10,8 +10,13 @@ tags:
  - Frustration
 ---
 
-![](/images/gnome-fail-whale.png)
-*The terrifying Gnome fail whale*
+{% 
+include figure 
+image_path="/assets/images/gnome-fail-whale.png"
+alt="The terrifying Gnome fail whale"
+caption="The terrifying Gnome fail whale"
+%}
+
 
 Upgrading to Fedora 25 was as easy as clicking a button in Fedora 24 then waiting.
 

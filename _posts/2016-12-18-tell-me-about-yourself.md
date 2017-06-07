@@ -10,8 +10,12 @@ tags:
  - Courage
 ---
 
-![](/images/dilbert-job-interview.jpg)
-*Illustration by [Scott Adams](http://dilbert.com)*
+{% 
+include figure 
+image_path="/assets/images/dilbert-job-interview.jpg" 
+alt="Illustration by [Scott Adams](http://dilbert.com)"
+caption="Illustration by [Scott Adams](http://dilbert.com)"
+%}
 
 Answering that opening question in an interview can be terrifying. 
 

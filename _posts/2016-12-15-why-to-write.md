@@ -10,8 +10,13 @@ tags:
  - Courage
 ---
 
-![](/images/typewriter.jpg)
-*Not my typewriter, mine is an Adler Tippa 2. [Photo](https://unsplash.com/photos/HbbHfXvb6Xw) by [Nirzar Pangarkar](http://twitter.com/nirzardp)*
+{% 
+include figure 
+image_path="/assets/images/typewriter.jpg"
+alt="Not my typewriter, mine is an Adler Tippa 2. [Photo](https://unsplash.com/photos/HbbHfXvb6Xw) by [Nirzar Pangarkar](http://twitter.com/nirzardp)"
+caption="Not my typewriter, mine is an Adler Tippa 2. [Photo](https://unsplash.com/photos/HbbHfXvb6Xw) by [Nirzar Pangarkar](http://twitter.com/nirzardp)"
+%}
+
 
 Perhaps you are like me, with ideas in various states of completeness rattling around your mind. Some are decades old.
 

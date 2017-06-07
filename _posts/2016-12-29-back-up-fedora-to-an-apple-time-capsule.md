@@ -13,8 +13,13 @@ tags:
  - Apple
 ---
 
-![](/images/jobs-timecapsule.png)
-*Steve Jobs burying a time capsule with friends (photo by National Geographic Channel)*
+{% 
+include figure 
+image_path="/assets/images/jobs-timecapsule.png"
+alt="Steve Jobs burying a time capsule with friends (photo by National Geographic Channel)"
+caption="Steve Jobs burying a time capsule with friends (photo by National Geographic Channel)"
+%}
+
 
 At home we use an old Apple Time Capsule to back up our iMac and Air, and I want to do the same for my Fedora 25 workstation. My workstation has about 800GB of stuff in it.
 

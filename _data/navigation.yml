@@ -1,4 +1,14 @@
-# Menu navigation links
-
-- title: Ecoyarns
-  url: https://ecoyarns.com.au
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog
+  - title: "About"
+    url: /about
+  - title: "Now"
+    url: /now
+  - title: "Contact"
+    url: /contact    
+  - title: "Subscribe"
+    url: /feed.xml
