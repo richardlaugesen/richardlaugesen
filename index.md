@@ -9,6 +9,8 @@ My wife and I own [Ecoyarns](https://ecoyarns.com.au) where we sell socially res
 
 In the past I've been a software developer, high school physics teacher, book author, business owner, research assistant, french polisher, musician, and concreter.
 
+I relax by playing around on a [Fender Jaguar](https://en.wikipedia.org/wiki/Fender_Jaguar) guitar and riding my bike as much as I can. 
+
 Focused on focus, minimalist, [INTJ](http://typelogic.com/intj.html), [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A), interested in machine learning.
 
 Live in Australia, born in New Zealand, married to a Singaporean.

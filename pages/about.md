@@ -16,6 +16,8 @@ I wrote a testing platform for schools and universities with [Mitch O'Toole](htt
 
 Completed a Science degree with a major in Physics, and a Graduate Diploma of Education. Started two masters degrees but dropped out of both; an MBA, and a masters of IT. Neither were a very good fit and I'm glad I quit.
 
+I relax by playing around on a [Fender Jaguar](https://en.wikipedia.org/wiki/Fender_Jaguar) guitar and riding my bike as much as I can. 
+
 Focused on focus, minimalist, [INTJ](http://typelogic.com/intj.html), [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A), interested in machine learning.
 
 Live in Australia, born in New Zealand, married to a Singaporean.
