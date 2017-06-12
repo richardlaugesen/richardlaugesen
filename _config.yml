@@ -2,7 +2,7 @@ title:            "Richard Laugesen"
 title_seperator:  "-"
 description:      "Make robots that forecast water. Tinker with business."
 url: 		  "http://richardlaugesen.com"
-baseurl:	  
+baseurl:
 theme: 		  "sparrow-jekyll-theme"
 favicon:	  "/assets/images/richard-square.jpg"
 avatar:		  "/assets/images/richard-square.jpg"
@@ -13,7 +13,7 @@ encoding:	  "utf-8"
 author:
   name:		  "Richard Laugesen"
 
-comments:	  false
+comments:	  true
 disqus:
   shortname:	  "richardlaugesen"
 
@@ -43,9 +43,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -109,5 +109,5 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: false
-      share: false
+      comments: true
+      share: true
