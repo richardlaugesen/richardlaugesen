@@ -8,7 +8,7 @@ tags:
 - Software
 ---
 
-This was too long for the [about](/about) page, so here it is.
+This was too long for the [about](/) page, so here it is.
 
 I've written a few pieces of software and two of them have been somewhat successful, many many more have not.
 
