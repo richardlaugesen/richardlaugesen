@@ -19,7 +19,7 @@ Turned out a few other teachers also wanted to do this so I gave it a name (Term
 I also wrote a testing platform for schools and universities with [Mitch O'Toole](http://www.newcastle.edu.au/profile/mitch-otoole) called [Think Literacy](https://app.thinkliteracy.com/).
 
 It has long since outgrown it's name though and is now used for numeracy tests, cloze tests, corporate staff competency, and general multiple choice tests.
-b
+
 1. Teachers and researchers create tests and surveys,
 2. Students complete them,
 3. The software marks the test and identifies difficulties,
@@ -28,4 +28,4 @@ b
 6. Researchers get to study relationships across large student cohorts correlated with survey responses, and
 7. Administrators get to quantify and track performance across their institution.
 
-It's used in 22 institutions by around 13,000 students.
+It's currently used in 22 institutions by around 13,000 students.
