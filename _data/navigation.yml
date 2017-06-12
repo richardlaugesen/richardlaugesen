@@ -4,11 +4,9 @@ main:
     url: /
   - title: "Blog"
     url: /blog
-  - title: "About"
-    url: /about 
   - title: "Now"
     url: /now
   - title: "Contact"
-    url: /contact    
+    url: /contact
   - title: "Subscribe"
     url: /feed.xml
