@@ -3,9 +3,20 @@ layout: post
 title:  Twisted fire starter
 description: It's harder to start a fire than I thought
 excerpt: So embarrassing!
+image:
+  thumb: the-roof-is-on-fire.jpg
 tags:
  - Survival
+ - Manliness
+ - Family
 ---
+
+{% 
+include figure 
+image_path="/assets/images/the-roof-is-on-fire.jpg"
+alt="Burning timber, happy family"
+caption="Burning timber, happy family"
+%}
 
 So embarrassing!
 
