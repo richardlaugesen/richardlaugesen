@@ -6,7 +6,7 @@ redirects_from:
 
 ---
 
-I've spent the last decade as a computational hydrologist at the Bureau of Meteorology. I get to lead teams of like-minded geeks and feed big datasets into very [fast computers](https://nci.org.au/) to [predict](http://www.bom.gov.au/water/) the future. I think it's the best job in the world.
+I've spent the last decade as a computational hydrologist at the Bureau of Meteorology. I get to lead teams of like-minded nerds and feed big datasets into very [fast computers](https://nci.org.au/) to [predict](http://www.bom.gov.au/water/) the future. I think it's the best job in the world.
 
 My wife and I own [Ecoyarns](https://ecoyarns.com.au) where we sell socially responsible yarn and fibre to an awesome crafty community.
 
