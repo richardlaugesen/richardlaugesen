@@ -10,15 +10,15 @@ tags:
  - Courage
 ---
 
-{% 
-include figure 
+{%
+include figure
 class="half"
-image_path="/assets/images/dilbert-job-interview.jpg" 
+image_path="/assets/images/dilbert-job-interview.jpg"
 alt="Illustration by [Scott Adams](http://dilbert.com)"
 caption="Illustration by [Scott Adams](http://dilbert.com)"
 %}
 
-Answering that opening question in an interview can be terrifying. 
+Answering that opening question in an interview can be terrifying.
 
 Here is a simple approach to handle it that should only take about 1 minute.
 
@@ -37,6 +37,3 @@ Writing it down first and practicing till it sounds natural is probably a good i
 ---
 
 Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.
-
-
-
