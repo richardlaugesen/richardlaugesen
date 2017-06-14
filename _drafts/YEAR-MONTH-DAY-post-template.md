@@ -16,5 +16,6 @@ image_path="/assets/images/"
 alt=""
 caption=""
 %}
+b
 
 text...
