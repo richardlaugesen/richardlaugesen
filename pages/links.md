@@ -48,7 +48,7 @@ permalink: /links/
 
 [eReefs Catchments](http://wafaridev/data/shared/eReefs/website/ereefs_web/#id=120205A&panel=forecasts&fcdate=2014-02-04)
 
-[eReefs THREDDS]()
+[eReefs THREDDS](http://ereeftds.bom.gov.au/ereefs/tds/catalogs/ereefs_data.html)
 
 [Canberra Forecast](http://www.bom.gov.au/act/forecasts/canberra.shtml?ref=hdr)
 
