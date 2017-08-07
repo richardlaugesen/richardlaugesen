@@ -20,6 +20,8 @@ permalink: /links/
 
 [Xero](https://login.xero.com)
 
+[ATO Portal](https://bp.ato.gov.au/)
+
 [Maps](https://maps.google.com)
 
 [Live Traffic NSW](https://www.livetraffic.com/desktop.html)
@@ -58,11 +60,13 @@ permalink: /links/
 
 [Nullsoft](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-217.06,-9.49,691)
 
-[HyFS](http://ccfvp-hydsapp1/)
+[HyFS (BOM)](http://ccfvp-hydsapp1/)
 
-[Chart Video](https://mettube.bom.gov.au/category/extreme-weather-desk)
+[Daily chart video (BOM)](https://mettube.bom.gov.au/category/extreme-weather-desk)
 
-[Chart Discussion](http://bnoc-aifs-op.bom.gov.au/images/osa/index.html)
+[Met forecast (BOM)](http://web.bom.gov.au/nmoc/srco/brief.html)
+
+[Met verification (BOM)](http://webnm.bom.gov.au/nmoc/oceanography/verification/)
 
 [BOM Wiki](https://wiki.bom.gov.au/foswiki/)
 
