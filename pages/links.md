@@ -56,6 +56,8 @@ permalink: /links/
 
 [Canberra Forecast (BOM)](http://aifs-nsw.bom.gov.au/gfe/products/IDN11039.wrap.html)
 
+[NSW forecast](http://www.bom.gov.au/australia/charts/viewer/index.shtml?type=mslp-precip&tz=AEDT&area=NSW&model=R&chartSubmit=Refresh+View)
+
 [Canberra Radar](http://www.bom.gov.au/products/IDR403.loop.shtml)
 
 [Nullsoft](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-217.06,-9.49,691)
@@ -67,6 +69,8 @@ permalink: /links/
 [Met forecast (BOM)](http://web.bom.gov.au/nmoc/srco/brief.html)
 
 [Met verification (BOM)](http://webnm.bom.gov.au/nmoc/oceanography/verification/)
+
+[ECMWF Canberra rainfall](http://www.ecmwf.int/en/forecasts/charts/medium/ens-meteograms?epsgram=classical_10d&lat=-35.28&station_name=Canberra,%20Australia&lon=149.13&altitude=609&time=2016100912,0,2016100912)
 
 [BOM Wiki](https://wiki.bom.gov.au/foswiki/)
 
