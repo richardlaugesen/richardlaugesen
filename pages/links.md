@@ -48,13 +48,13 @@ permalink: /links/
 
 [Travel](http://buzz.bom.gov.au/water/activities/CWDTravelPage/default.aspx)
 
-[eReefs Catchments](http://wafaridev/data/shared/eReefs/website/ereefs_web/#id=120205A&panel=forecasts&fcdate=2014-02-04)
+[eReefs catchments (BOM)](http://wafaridev/data/shared/eReefs/website/ereefs_web/#id=120205A&panel=forecasts&fcdate=2014-02-04)
 
 [eReefs THREDDS](http://ereeftds.bom.gov.au/ereefs/tds/catalogs/ereefs_data.html)
 
-[Canberra Forecast](http://www.bom.gov.au/act/forecasts/canberra.shtml?ref=hdr)
+[Canberra forecast](http://www.bom.gov.au/act/forecasts/canberra.shtml?ref=hdr)
 
-[Canberra Forecast (BOM)](http://aifs-nsw.bom.gov.au/gfe/products/IDN11039.wrap.html)
+[Canberra forecast (BOM)](http://aifs-nsw.bom.gov.au/gfe/products/IDN11039.wrap.html)
 
 [NSW forecast](http://www.bom.gov.au/australia/charts/viewer/index.shtml?type=mslp-precip&tz=AEDT&area=NSW&model=R&chartSubmit=Refresh+View)
 
@@ -64,6 +64,8 @@ permalink: /links/
 
 [HyFS (BOM)](http://ccfvp-hydsapp1/)
 
+[AU water products](http://www.bom.gov.au/water/index.shtml)
+
 [Daily chart video (BOM)](https://mettube.bom.gov.au/category/extreme-weather-desk)
 
 [Met forecast (BOM)](http://web.bom.gov.au/nmoc/srco/brief.html)
@@ -72,7 +74,13 @@ permalink: /links/
 
 [ECMWF Canberra rainfall](http://www.ecmwf.int/en/forecasts/charts/medium/ens-meteograms?epsgram=classical_10d&lat=-35.28&station_name=Canberra,%20Australia&lon=149.13&altitude=609&time=2016100912,0,2016100912)
 
-[BOM Wiki](https://wiki.bom.gov.au/foswiki/)
+[Airport cams (BOM)](http://avcamweb.bom.gov.au/avcam/plsql/images.display?sOptions=Y&sRegion=&sMode=HIST&nZoom=100&sTile=&sSiteNo=70351&sDirection=ALL&nDuration=2&nFrameRate=200)
+
+[Wiki (BOM)](https://wiki.bom.gov.au/foswiki/)
+
+[ACT emergency incidents](http://esa.act.gov.au/community-information/incidents-map/)
+
+[NSW emergency incidents](http://emergencynsw.info/)
 
 [APS News](http://www.psnews.com.au/aps/)
 
