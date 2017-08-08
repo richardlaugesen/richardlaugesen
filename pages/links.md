@@ -44,7 +44,7 @@ permalink: /links/
 
 [Breeze](https://bom365.sharepoint.com/)
 
-[EHP](ehp)
+[EHP](http://ehp)
 
 [Travel](http://buzz.bom.gov.au/water/activities/CWDTravelPage/default.aspx)
 
@@ -63,6 +63,10 @@ permalink: /links/
 [Nullsoft](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-217.06,-9.49,691)
 
 [HyFS (BOM)](http://ccfvp-hydsapp1/)
+
+[Rain, river, storage data](http://www.bom.gov.au/water/about/agencyDataAuxNav.shtml)
+
+[EIE explorer](http://www.bom.gov.au/jsp/eiexplorer/)
 
 [AU water products](http://www.bom.gov.au/water/index.shtml)
 
