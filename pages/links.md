@@ -78,9 +78,7 @@ permalink: /links/
 
 [Wiki (BOM)](https://wiki.bom.gov.au/foswiki/)
 
-[ACT emergency incidents](http://esa.act.gov.au/community-information/incidents-map/)
-
-[NSW emergency incidents](http://emergencynsw.info/)
+[AU hazards](http://google.org/crisismap/australia)
 
 [APS News](http://www.psnews.com.au/aps/)
 
