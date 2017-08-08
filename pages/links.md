@@ -46,6 +46,8 @@ permalink: /links/
 
 [EHP (BOM)](http://ehp)
 
+[EHP data loading (BOM)](http://wafaridev.bom.gov.au/docs/ehp_notebooks/HowtoLoadEHPDataIntoPandas.html)
+
 [SitesDB (BOM)](http://ccf-itb-oasprod.bom.gov.au:8891/sitesdb)
 
 [Travel (BOM)](http://buzz.bom.gov.au/water/activities/CWDTravelPage/default.aspx)
@@ -55,6 +57,8 @@ permalink: /links/
 [eReefs THREDDS](http://ereeftds.bom.gov.au/ereefs/tds/catalogs/ereefs_data.html)
 
 [Canberra forecast](http://www.bom.gov.au/act/forecasts/canberra.shtml?ref=hdr)
+
+[Canberra Observations](http://www.bom.gov.au/act/observations/canberra.shtml)
 
 [Canberra forecast (BOM)](http://aifs-nsw.bom.gov.au/gfe/products/IDN11039.wrap.html)
 
