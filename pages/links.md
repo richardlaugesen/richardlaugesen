@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My links
-permalink: /links77/
+permalink: /links/
 ---
 
 [Paper](https://paper.dropbox.com)
