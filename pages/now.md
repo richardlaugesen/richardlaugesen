@@ -16,7 +16,7 @@ Not riding to work so much this month because of family commitments. Instead I'm
 
 Toying around on the guitars again after many years of not touching them. Trying to solve a string buzz problem on the Jaguar.
 
-Continuing to minimise. Most physical stuff is now done, and digital stuff is close to being done.
+Continuing to minimise. Most physical stuff is now done and the digital stuff is close to being done.
 
 Tinkering with this blog and writing a bit more.
 
