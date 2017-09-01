@@ -2,6 +2,7 @@
 layout: page
 title: My links
 permalink: /links/
+sitemap: false
 ---
 
 [Paper](https://paper.dropbox.com)
