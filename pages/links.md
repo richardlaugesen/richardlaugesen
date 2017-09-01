@@ -102,4 +102,4 @@ permalink: /links/
 
 [Product Safety](https://www.productsafety.gov.au)
 
-[Feynman Lecture](http://www.feynmanlectures.caltech.edu/)
+[Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
