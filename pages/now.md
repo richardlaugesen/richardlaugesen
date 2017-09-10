@@ -6,21 +6,23 @@ permalink: /now/
 
 (This is a [now](http://nownownow.com/about) page, maybe you should have one too)
 
-It is Winter and I'm home in Canberra.
+It is Spring and I'm home in Canberra.
 
-Have sold our unit in Sydney and are calmly waiting for the settlement date to close. Learning about index funds.
+In family recovery mode after my trip to the Whitsundays last week. They were suffering through a virus while I was presenting at the [Queensland Coastal Conference](http://event.icebergevents.com.au/qldcoastalconference2017). This is our 4th winter virus, it sucks.
 
-Have been wrapping up some deliverables for eReefs and preparing conference papers. Usual level of project management guff. Helping out with the NAIDOC week preparations for the office. 
+We have been test riding cargo bikes, plan is to replace our car for most trips. 
 
-Not riding to work so much this month because of family commitments. Instead I'm parking the car about 1 km away and walking.
+Being pulled in a few directions at work. Trying to stay focused on a business development proposal along with figuring out how to finish the eReefs project on a high. 
 
-Toying around on the guitars again after many years of not touching them. Trying to solve a string buzz problem on the Jaguar.
+Been helping out with [Ecoyarns](https://ecoyarns.com.au) most nights. We have brought in a few more suppliers and improved some backend things.
 
-Continuing to minimise. Most physical stuff is now done and the digital stuff is close to being done.
+Haven't played much guitar or done much writing. 
 
-Tinkering with this blog and writing a bit more.
+Had enough yak shaving and dumped my Fedora desktop and collection of VMs for a 2012 MacBook Air. 
 
-Reading [The Tao of Bill Murray](https://www.amazon.com/Tao-Bill-Murray-Real-Life-Enlightenment/dp/0812998707)
+Just finished reading The [Luminaries](https://www.goodreads.com/book/show/17333230-the-luminaries). Undecided about what to start next.
 
 ---
-This was updated on 13 June 2017
+This was updated on 11 September 2017
+
+[Previous update](/now-20170613/)
