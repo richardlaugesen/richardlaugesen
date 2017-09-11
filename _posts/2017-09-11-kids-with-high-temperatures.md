@@ -17,7 +17,7 @@ Here is what we learnt:
 - Giving them at the same time is okay and a more effective way to reduce internal temperature than giving them separately
 - Current recommendation is to avoid trying to reduce internal temperature, aim for comfort
 - High core temperature does not cause seizures or brain damage
-- Ibuprofen should be fine with a Factor VIII level around 40 (not okay at 14 though)
+- Ibuprofen should be fine with a Factor VIII level around 40, but not 14
 - It's common for kids to get secondary bacterial infections after a viral infection but hard to diagnose
 - Streptococcal Pharyngitis (strep throat) can kill a child in a few days if not treated
 - An effective treatment for strep throat is the antibiotic [Phenoxymethylpenicillin](https://en.wikipedia.org/wiki/Phenoxymethylpenicillin), first used in 1948
