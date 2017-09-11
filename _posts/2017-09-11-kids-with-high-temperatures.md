@@ -17,6 +17,7 @@ Here is what we learnt:
 - Giving them at the same time is okay and a more effective way to reduce internal temperature than giving them seperately
 - Current recommendation is to avoid trying to reduce internal temperature, aim for comfort
 - High core temperature does not cause seziures or brain damage
+- It is common for kids to get secondary bacterial infections after a viral infection
 - Streptococcal Pharyngitis (strep throat) can kill a child in a few days if not treated
 - An effective treatment for strep throat is the antibiotic [Phenoxymethylpenicillin](https://en.wikipedia.org/wiki/Phenoxymethylpenicillin), first used in 1948
 - Phenoxymethylpenicillin is a narrow-spectrum antibiotic and therefore does not distrupt gut biota as much (less active on [gram negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria))
