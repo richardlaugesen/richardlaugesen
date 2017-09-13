@@ -13,9 +13,9 @@ encoding:	  "utf-8"
 author:
   name:		  "Richard Laugesen"
 
-comments:	  false
+comments:	  true
 disqus:
-  shortname:	  ""
+  shortname:	  "richardlaugesen"
 
 atom_feed:
   path:
@@ -110,5 +110,5 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: false
+      comments: true
       share: true
