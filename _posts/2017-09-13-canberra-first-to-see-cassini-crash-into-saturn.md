@@ -25,10 +25,11 @@ But unfortunately it is closed.
 
 So what to do? Here are a few links to track things online:
 
-- [Latest Status](https://www.nasa.gov/nasalive)
+- [Latest Status](https://saturn.jpl.nasa.gov/mission/saturn-tour/where-is-cassini-now/)
+- [Final view video](https://www.youtube.com/watch?v=_5ZrSKpbdSg)
 - [NASA Live](https://www.nasa.gov/nasalive)
-- [Raw image feed](https://www.nasa.gov/nasalive)
-- [Deep Space Network](https://www.nasa.gov/nasalive)
+- [Raw image feed](https://saturn.jpl.nasa.gov/galleries/raw-images?order=earth_date+desc&per_page=50&page=0)
+- [Deep Space Network](https://eyes.nasa.gov/dsn/dsn.html)
 - [Cassini Twitter](https://twitter.com/CassiniSaturn)
 - [Canberra DSN Twitter](https://twitter.com/CanberraDSN)
 - [#CassiniAus](https://twitter.com/search?q=%23CassiniAus&src=typd)
