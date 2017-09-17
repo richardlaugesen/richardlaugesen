@@ -9,6 +9,8 @@ sitemap: false
 
 [Dropbox](https://dropbox.com)
 
+[Office 365 (BOM)](https://bom365-my.sharepoint.com/personal/richard_laugesen_bom_gov_au/_layouts/15/onedrive.aspx)
+
 [Reminders](https://www.icloud.com/#reminders)
 
 [Vultr](https://my.vultr.com/)
