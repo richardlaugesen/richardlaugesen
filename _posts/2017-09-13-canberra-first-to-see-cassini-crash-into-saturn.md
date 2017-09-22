@@ -36,3 +36,5 @@ So what to do? Here are a few links to track things online:
 - [#GrandFinale](https://twitter.com/hashtag/GrandFinale?src=hash)
 
 I remember when Cassini launched in 1997 and when Huygens landed on Titan in 2005. Space exploration is a long game but I love it. The technology is reliable and the science just mind blowing. It's amazing considering the spacecraft was built over 20 years ago.
+
+Update: [Final captians log](http://ciclops.org/index/8615/We-Came-We-Saw-Its-Done?js=1) post from Carolyn Porco, the one and only Cassini Imaging Team Leader
