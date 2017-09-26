@@ -13,7 +13,7 @@ encoding:	  "utf-8"
 author:
   name:		  "Richard Laugesen"
 
-comments:	  true
+comments:	  false
 disqus:
   shortname:	  "richardlaugesen"
 
@@ -110,5 +110,5 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
