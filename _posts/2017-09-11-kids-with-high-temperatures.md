@@ -21,6 +21,7 @@ Here is what we learnt:
 - [Scarlet Fever](https://en.wikipedia.org/wiki/Scarlet_fever) is caused by an infection of [group A Streptoccoccus](https://en.wikipedia.org/wiki/Streptococcus_pyogenes) and can kill a child in a few days if not treated, it was the leading cause of death in the early 20th Century
 - An effective treatment for a strep infection is the antibiotic [Phenoxymethylpenicillin](https://en.wikipedia.org/wiki/Phenoxymethylpenicillin), first used in 1948
 - Phenoxymethylpenicillin is a narrow-spectrum antibiotic and therefore does not disrupt gut-flora as much (less active on [gram negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria))
+- Kids with unexplained knee pain should be taken seriously, it may be the only symptom of [Meningitis](https://en.wikipedia.org/wiki/Meningitis)
 
 Want to know what is terrifying? A 5 year old with a temperature approaching 40 degrees for a week.
 
