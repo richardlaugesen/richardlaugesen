@@ -40,6 +40,8 @@ There’s a wasp hotline to call in Canberra on 0261621914. I think they will re
 
 **Update**: All wasps were gone by the second week of May, and the nests became a great preschool show-and-tell activity.
 
+**Update**: It's early October and the wasps are back, exact same locations as last year. 
+
 ---
 
 Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.
