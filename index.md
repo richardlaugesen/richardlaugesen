@@ -14,7 +14,7 @@ In the past I've been a [programmer](/writing/somewhat-successful-software/), hi
 
 I relax by playing around on a [guitar](https://en.wikipedia.org/wiki/Fender_Jaguar), doing geneology, and riding my bicycle as much as I can.
 
-I majored in Physics at University, and did a bunch of graduate study. I've forgoten most of what I learnt.
+I majored in Physics at University, and did a bunch of graduate study. I've forgotten most of what I learnt.
 
 Focused on focus, minimalist, [INTJ](http://typelogic.com/intj.html), [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A), interested in machine learning.
 
