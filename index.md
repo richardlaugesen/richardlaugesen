@@ -12,9 +12,9 @@ My wife and I own [Ecoyarns](https://ecoyarns.com.au) where we sell socially res
 
 In the past I've been a [programmer](/blog/somewhat-successful-software/), high school physics teacher, book author, business owner, research assistant, french polisher, musician, concreter, and electrical laborer.
 
-I relax by playing around on a [guitar](https://en.wikipedia.org/wiki/Fender_Jaguar) and riding my bicycle as much as I can.
+I relax by playing around on a [guitar](https://en.wikipedia.org/wiki/Fender_Jaguar), doing geneology, and riding my bicycle as much as I can.
 
-I majored in Physics at University, and did a bunch of graduate study.
+I majored in Physics at University, and did a bunch of graduate study. I've forgoten most of what I learnt.
 
 Focused on focus, minimalist, [INTJ](http://typelogic.com/intj.html), [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A), interested in machine learning.
 
