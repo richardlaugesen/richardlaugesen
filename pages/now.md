@@ -14,7 +14,7 @@ Exploring our family history by putting our tree together in [Gramps](https://gr
 
 Writing a water resource modelling library in [Clojure](https://clojure.org) to learn more about both.
 
-Travelling to New Zealand in July, and camping on the South Coast in a few weeks. 
+Travelling to New Zealand in July, and camping on the South Coast NSW in a few weeks. 
 
 Trying out [Bullet Journalling](http://bulletjournal.com/) again to stay on top of things.
 
