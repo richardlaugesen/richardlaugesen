@@ -10,7 +10,7 @@ I've spent the last decade or so as a computational hydrologist at the Bureau of
 
 My wife and I own [Ecoyarns](https://ecoyarns.com.au) where we sell socially responsible yarn and fibre to an awesome crafty community.
 
-In the past I've been a [programmer](/blog/somewhat-successful-software/), high school physics teacher, book author, business owner, research assistant, french polisher, musician, concreter, and electrical laborer.
+In the past I've been a [programmer](/writing/somewhat-successful-software/), high school physics teacher, book author, business owner, research assistant, french polisher, musician, concreter, and electrical laborer.
 
 I relax by playing around on a [guitar](https://en.wikipedia.org/wiki/Fender_Jaguar), doing geneology, and riding my bicycle as much as I can.
 

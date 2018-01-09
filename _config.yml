@@ -33,7 +33,7 @@ analytics:
     tracking_id:  "UA-89112715-1"
 
 timezone:    	  "Australia/Canberra"
-permalink:   	  "/blog/:title/"
+permalink:   	  "/writing/:title/"
 
 gems:
   - jekyll-sitemap
