@@ -111,4 +111,4 @@ defaults:
     values:
       layout: post
       comments: false
-      share: true
+      share: false
