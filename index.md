@@ -16,8 +16,6 @@ I relax by playing around on a [guitar](https://en.wikipedia.org/wiki/Fender_Jag
 
 I majored in Physics at University, and did a bunch of graduate study. I've forgotten most of what I learnt.
 
-Focused on focus, minimalist, [INTJ](http://typelogic.com/intj.html), [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A), interested in machine learning.
-
 Live in Australia, born in New Zealand, married to a Singaporean.
 
 What I'm doing [now](/now).
