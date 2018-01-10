@@ -14,7 +14,7 @@ I've written a few pieces of software and two of them have been somewhat success
 
 I once wrote some software for myself to automagically create classroom seating charts based on student relationships.
 
-Turned out a few other teachers also wanted to do this so I gave it a name (Termites) and sold a few licences. I lost interest after a few years and closed down the business but it was fun and profitable for a while.
+Turned out a few other teachers also wanted to do this so I gave it a name (Termites) and sold a few 100 licences. I lost interest after a few years and closed down the business but it was fun and profitable for a while.
 
 I also wrote a testing platform for schools and universities with [Mitch O'Toole](http://www.newcastle.edu.au/profile/mitch-otoole) called [Think Literacy](https://app.thinkliteracy.com/).
 
