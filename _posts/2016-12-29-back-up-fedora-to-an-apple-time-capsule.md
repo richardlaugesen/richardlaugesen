@@ -23,12 +23,15 @@ caption="Steve Jobs burying a time capsule with friends (photo by National Geogr
 
 At home we use an old Apple Time Capsule to back up our iMac and Air, and I want to do the same for my Fedora 25 workstation. My workstation has about 800GB of stuff in it.
 
-Running rsync over a mounted directory to the Time Capsule turned out to be very unreliable. Connections to the Time Capsule are made using either [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol). or [SMB/CIFS](https://en.wikipedia.org/wiki/Server_Message_Block). Both protocols had their own unique problems which I describe below.
+Running rsync over a mounted directory to the Time Capsule turned out to be very unreliable. Connections to the Time Capsule are made using either [AFP](https://en.wikipedia.org/wiki/Apple_Filing_Protocol) or [SMB/CIFS](https://en.wikipedia.org/wiki/Server_Message_Block). And both protocols had their own unique problems which I describe below.
 
 Running rsync over SSH to the iMac turned out to be the best solution. It also gave the largest throughput - around twice as fast as CIFS and ten times faster than AFP.
 
+Stop reading now.
 
-## Method 1
+## Now for the details
+
+### Method 1
 
 Backing up the workstation by transferring files directly to the Time Capsule seems like a reasonable approach but it is actually not so great because:
 
@@ -37,7 +40,7 @@ Backing up the workstation by transferring files directly to the Time Capsule se
 - Recovering the previous version of a file is not possible. At least not without adding some additional complexity. It’s just a directory from Fedora mirrored to the Time Capsule.
 - It turns out that mounting the Time Capsule was pretty flaky.
 
-## Method 2
+### Method 2
 
 A better approach is to back up the workstation to the iMac and then let the iMac automagically back itself up to the Time Capsule.
 
@@ -53,7 +56,7 @@ A downside is that we need an iMac in the mix.
 
 ---
 
-## Using SSH with method 2 (the winner)
+### Using SSH with method 2 (the winner)
 
 The following will rsync a directory on the Fedora workstation to the iMac.
 
@@ -73,7 +76,7 @@ To get this running smoothly and avoid entering a password every hour we need to
 
 ---
 
-## Using CIFS with method 1 (a failure)
+### Using CIFS with method 1 (a failure)
 
 The following will mount the Time Capsule at */media/timecapsule* and set things writable for all users:
 
@@ -102,7 +105,7 @@ And to get things backing up we can add a similar rsync command to cron like we 
 
 We need to set the *omit-dir-times*, *no-group*, and *no-perms* options because the Time Capsule doesn't allow such things.
 
-## Connection freezing with CIFS
+### Connection freezing with CIFS
 
 The rsync job was freezing after what appeared to be a random amount of time. And it happened whether connecting to the Time Capsule over wifi or ethernet.
 
@@ -126,7 +129,7 @@ cp -rv ~/Documents /media/timecapsule
 
 Of course using copy is not a solution for the backups. We only want to transfer the recent changes since the last backup, not the whole 800GB every time. And to do that we need rsync.
 
-## Failed to set time on dot files with CIFS
+### Failed to set time on dot files with CIFS
 
 Lots of errors during the rsync job about not being able to set times on some dot files:
 
@@ -140,7 +143,7 @@ Perhaps using *--inplace* would help but that comes with it's own set of risks.
 
 ---
 
-# Using AFP with method 1 (another failure)
+### Using AFP with method 1 (another failure)
 
 So, perhaps CIFS is no good and AFP will be better.
 
@@ -178,7 +181,7 @@ There is probably a way to make AFP work but I ran out of patience, and that rel
 
 ---
 
-## Using CIFS and AFP with method 2 (another failure)
+### Using CIFS and AFP with method 2 (another failure)
 
 So how about mounting the iMac with CIFS or AFP and using rsync to transfer the workstation directory across - method 2.
 
@@ -194,7 +197,7 @@ It’s a little different to how we mounted the CIFS share because AFP uses [FUS
 
 ---
 
-## Conclusion
+### Conclusion
 
 Would be interesting to investigate why it also failed on the iMac - is my network the problem?
 
