@@ -42,6 +42,8 @@ There’s a wasp hotline to call in Canberra on 0261621914. I think they will re
 
 **Update**: It's early October and the wasps are back, exact same locations as last year. 
 
+**Update**: Three [currawong](https://en.wikipedia.org/wiki/Currawong) knocked the nest down and ate all teh wasps at 7am on 27th March 2018. It was unusually cold, around 1&deg;C. 
+
 ---
 
 Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.
