@@ -8,8 +8,6 @@ tags:
 - Software
 ---
 
-This was too long for the [about](/) page, so here it is.
-
 I've written a few pieces of software and two of them have been somewhat successful, many many more have not.
 
 I once wrote some software for myself to automagically create classroom seating charts based on student relationships.

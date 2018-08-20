@@ -1,7 +1,7 @@
 ---
 layout: post
-title: OpenBSD 6.1 for the desktop
-description: Tried OpenBSD 6.1 as a desktop, it was okay
+title: OpenBSD for the desktop
+description: Tried OpenBSD as a desktop, it was okay
 excerpt: Could it be used as an everyday desktop environment?
 image:
   thumb: openbsd-banner1.gif

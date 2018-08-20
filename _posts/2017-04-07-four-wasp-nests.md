@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four wasp nests in Canberra
+title: Four wasp nests
 description: What to do about four nests of native Australian wasps?
 excerpt: All wasps were gone by the second week of May, and the nests became a great preschool show-and-tell activity.
 image:
@@ -11,13 +11,13 @@ tags:
 
 ---
 
-We have four nests under the eves on the porch and all are native Australian wasps.
+We have four nests under the eves of our porch (in Canberra) and they all belong to native Australian wasps.
 
-They shouldn’t be a problem unless in high traffic area (which these are really). I was stung once, it hurt!
+This shouldn’t be a problem unless it is in a high traffic area, which these are. I was stung once, it hurt!
 
 They are a gardeners friend because they keep caterpillars under control.
 
-The best advice I've found to remove them is to use a fast knock down insecticide spray after dusk when all adults are back on the nest. Just make sure there is a clear path back to the house so you don't trip. Decided it would be a bit tricky to do this with four nests. I may succeed at killing the wasps on one nest but the wasps on the other three will probably start attacking me!
+The best advice is to remove them is to use a fast knock down insecticide spray after dusk when all adults are back on the nest. Just make sure there is a clear path back to the house so you don't trip. Decided it would be a bit tricky to do this with four nests. I may succeed at killing the wasps on one nest but the wasps on the other three will probably start attacking me!
 
 One is a nest of Roplalidia Plebeiana and the other three nests are Polistes Humilis. Names like that make the wasps sound very clever.
 
