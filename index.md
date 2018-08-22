@@ -14,8 +14,8 @@ In the past I've been a [programmer](./writing/somewhat-successful-software/), h
 
 I majored in Physics at University, and did a bunch of graduate study. I've forgotten most of what I learnt.
 
-Live in Australia, born in New Zealand, married to a Singaporean.
+Live in Australia, born in New Zealand, married to a Singaporean. 
 
-I enjoy working on [geneology](./gramps)
+I enjoy learning Danish and Indonesian, working on our family history, and playing guitar.
 
 What I'm doing [now](./now).
