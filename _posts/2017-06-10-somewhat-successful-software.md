@@ -16,7 +16,7 @@ Turned out a few other teachers also wanted to do this so I gave it a name (Term
 
 I also wrote a testing platform for schools and universities with [Mitch O'Toole](http://www.newcastle.edu.au/profile/mitch-otoole) called [Think Literacy](https://app.thinkliteracy.com/).
 
-It has long since outgrown it's name though and is now used for numeracy tests, cloze tests, corporate staff competency, and general multiple choice tests.
+It has long since outgrown it's name though and is now used for numeracy tests, cloze tests, corporate staff competency, and general multiple choice tests. And all those can be linked with surveys to uncover relationships.
 
 1. Teachers and researchers create tests and surveys,
 2. Students complete them,
