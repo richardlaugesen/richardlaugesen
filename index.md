@@ -5,7 +5,7 @@ redirects_from:
 - /about
 ---
 
-Seneca once said - it's not that life is short, it's that we waste most of it.
+Seneca once said after band practice - it's not that life is short, it's that we waste most of it.
 
 So this is what I do:
  - Entertain my daughters
