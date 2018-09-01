@@ -13,5 +13,6 @@ So this is what I do:
  - Help [Ecoyarns](https://ecoyarns.com.au) get people making things from socially responsible yarn
  - Generate business ideas and occasionally [ship them](./writing/somewhat-successful-software/)
  - Learn [Danish and Indonesian](https://duome.eu/tinyrocker) for fun
+ - Be healthy
 
 What I'm doing [now](./now).
