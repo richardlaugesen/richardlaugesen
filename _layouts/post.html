@@ -23,12 +23,10 @@ layout: default
       <section class="post__content" itemprop="text">
         {{ content }}
 
-	<hr/>
-	
+        {% if page.share %}{% include social-share.html %}{% endif %}
+
 	<p>Have something to say? <a href="/contact">Contact me</a>, I would love to chat.</p>
 	
-        {% if page.share %}{% include social-share.html %}{% endif %}
-      
       </section>
 
     </div>
