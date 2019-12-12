@@ -21,8 +21,6 @@ The [Canberra Deep Space Communication Complex](https://en.wikipedia.org/wiki/Ca
 
 But unfortunately it is closed.
 
-{% twitter https://twitter.com/CanberraDSN/status/907472414656704513 %}
-
 So what to do? Here are a few links to track things online:
 
 - [Latest Status](https://saturn.jpl.nasa.gov/mission/saturn-tour/where-is-cassini-now/)
