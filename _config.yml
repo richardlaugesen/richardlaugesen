@@ -1,7 +1,7 @@
 title:            "Richard Laugesen"
 title_seperator:  "-"
 description:      "Make robots that forecast water. Tinker with business."
-url: 		  "http://richardlaugesen.com"
+url: 		  "https://richardlaugesen.com"
 baseurl:	  "/"
 remote_theme: 	  "lingxz/sparrow"
 favicon:	  "/assets/images/richard-square.jpg"
