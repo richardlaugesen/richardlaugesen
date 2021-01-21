@@ -4,7 +4,7 @@ title: More wasps in Canberra
 description: New suburb and new (friendly) wasps
 excerpt: They are solatary rather than social and the mum helps out in the garden by catching and feeding spiders and catalipilers to her babies.
 image:
-  thumb:
+  thumb: /assets/images/marvel-wasp.png
 tags:
  -
 
@@ -12,9 +12,9 @@ tags:
 
 {%
 include figure
-image_path="/assets/images/"
-alt=""
-caption=""
+image_path="/assets/images/marvel-wasp.png"
+alt="Illustration of the Wasp by Marvel"
+caption="Wasp by Marvel"
 %}
 
 We recently moved to a new suburb in Canberra and a wasp nest has sprung up in the courtyard.
