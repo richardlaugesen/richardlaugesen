@@ -6,15 +6,16 @@ permalink: /now/
 
 (This is a [now](http://nownownow.com/about) page, maybe you should have one too)
 
-Spring in Canberra.
+Finished outline of the first paper for my PhD and have submitted to my supervisors for their comments. Has taken ages to get to this point because I have been working in bursts due to a lack of time available from work to focus on the research. I'm really excited about the big idea in the paper and cant wait to get it out there and start talking about it. 
 
-Still spending most of my time on domestic duties, but it feels like we have finally turned the corner and everyone is getting healthier. Influenza is shit.
+Reviewing a paper for Hydrologic Processes. Is in an area slightly outside what I normally do so am really enjoying new stuff. Cant talk about what it is due to the integrity and anonymity of the peer review process. Like democracy, it may be a bit messy and slightly broken but it's the best we have and in the long run seems to work.
 
-Attended the mid-winter dinner of my local Haemophilia association. Met some wonderful people and learnt all about the Australian My Health Record. Connected with three seperate people over business ideas, I found that suprising for some reason.
+Exploring our new local neighbourhood and facilities during the school holidays.
 
-Plans for another business are starting to come together. If it works then I should end up being more useful, have more agency, and more fun. Trying to minimise the downside. 
+Have taken every Wednesday off work during the kids summer holidays and it has been a suprisingly good bang-for-buck to get quality family time AND work done. Back to school next week though.
 
----
-This was updated on 1 September 2018
+Listening to the Indistractable audiobook. Obviously need help since I'm writing this instead of doing the review.
+
+This was updated on 28 January 2021
 
 [Previous update](/now-20180901/)
