@@ -6,16 +6,14 @@ permalink: /now/
 
 (This is a [now](http://nownownow.com/about) page, maybe you should have one too)
 
-Finished outline of the first paper for my PhD and have submitted to my supervisors for their comments. I'm really excited about the big idea in the paper and cant wait to get it out there and start talking about it. Still a long way to go though. 
+More work on my first PhD paper following feedback from co-authors. The feedback shows that I've still got a lot to learn.
 
-Reviewing a paper for Hydrologic Processes and am really enjoying learning new stuff. Cant talk about what it is due to the integrity and anonymity of the peer review process. Like democracy, it may be a bit messy and slightly broken but it's the best we have and in the long run seems to work.
+At the AMOS 2021 conference this week and am really enjoying the online/virtual format, much less anxiety. Learning about Antarctica and its involvement in climate change is really interesting because it is outside the area I work. And the history session was awesome. 
 
-Exploring our new local neighbourhood and facilities during the school holidays.
+Plenty of work this month for my Great Barrier Reef role - model runs, technical working groups, deliverables, customer meetings, project planning...
 
-Have taken every Wednesday off work during the kids summer holidays and it has been a suprisingly good bang-for-buck to get quality family time AND work done. Back to school next week though.
+Kids have been back at school and Y is already home with a cold virus in the second week. This culture of sending kids to school when they are 'just a little big sick' is so wrong!
 
-Listening to the Indistractable audiobook. Obviously need help since I'm writing this instead of doing the review!
+This was updated on 9 February 2021
 
-This was updated on 28 January 2021
-
-[Previous update](/now-20180901/)
+[Previous update](/now-20200128/)
