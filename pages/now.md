@@ -16,4 +16,4 @@ Kids have been back at school and Y is already home with a cold virus in the sec
 
 This was updated on 9 February 2021
 
-[Previous update](/now-20200128/)
+[Previous update](/now-20210128/)
